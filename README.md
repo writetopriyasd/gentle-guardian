@@ -1,4 +1,5 @@
-# Serenity – A Gentle Home Assistant for Older Adults
+# Serenity – A Gentle Home Assistant for Older Adults   <img width="2000" height="2000" alt="Qq78bIrshP4gbJy_Serenity App" src="https://github.com/user-attachments/assets/fbf01a39-29a6-4e69-8050-630e6198792a" />
+
 
 Serenity is a **companion** web app designed to help older adults stay independent, healthy, and connected, while giving caregivers peace of mind. 
 
