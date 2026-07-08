@@ -9,7 +9,7 @@ It focuses on a calm, senior-friendly experience with medication reminders, dail
 ## Product Vision
 
 Serenity supports aging-in-place by combining simple, structured daily guidance with gentle emotional check-ins.
-The product aims to reduce missed medications, create predictable routines, and surface early signs of distress to caregivers without feeling clinical or overwhelming. [page:1]
+The product aims to reduce missed medications, create predictable routines, and surface early signs of distress to caregivers without feeling clinical or overwhelming.
 
 ---
 
@@ -22,7 +22,7 @@ The product aims to reduce missed medications, create predictable routines, and 
   A seven-step day plan (wake up, meals, walk, rest, wind down) displayed as a simple, scannable list to build healthy habits and predictability.
 
 - **Health and mood check-ins**  
-  A lightweight survey asking “How are you feeling today?” with options from “Not well” to “Great” plus an optional free-text note to encourage sharing context. [page:1]
+  A lightweight survey asking “How are you feeling today?” with options from “Not well” to “Great” plus an optional free-text note to encourage sharing context.
 
 - **Weekly medication overview**  
   A table view of medications across the week with taken/missed/upcoming states to help caregivers spot patterns and risks at a glance.
